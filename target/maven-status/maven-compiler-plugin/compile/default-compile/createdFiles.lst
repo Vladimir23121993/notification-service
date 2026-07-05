@@ -1,0 +1,6 @@
+com\aston\notification\dto\UserEventDto.class
+com\aston\notification\listener\UserEventListener.class
+com\aston\notification\config\KafkaConfig.class
+com\aston\notification\service\EmailService.class
+com\aston\notification\NotificationServiceApplication.class
+com\aston\notification\controller\EmailController.class
